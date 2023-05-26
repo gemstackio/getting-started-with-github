@@ -1,4 +1,6 @@
-Now, let's discuss what GitHub is and why it is used:
+## Background on GitHub
+
+Let's discuss what GitHub is and why it is used:
 
 GitHub is a web-based platform that provides a centralized location for hosting and managing version-controlled repositories. It primarily uses Git, a distributed version control system, to track changes to codebases and facilitate collaboration among developers. Here are some key points:
 
